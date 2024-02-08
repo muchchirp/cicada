@@ -9,7 +9,7 @@ import { Providers } from '@/components/Providers';
 
 
 const meta = {
-  title: 'UnblockVPN ',
+  title: 'CicadaVPN ',
   description: 'Brought to you by Vercel, Stripe, and Supabase.',
   cardImage: '/og.png',
   robots: 'follow, index',

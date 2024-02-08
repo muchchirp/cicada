@@ -1,4 +1,4 @@
-# UnblockVPN landing page
+# CicadaVPN landing page
 
 The all-in-one starter kit for high-performance SaaS applications.
 

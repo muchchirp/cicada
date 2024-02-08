@@ -35,7 +35,7 @@ const Founders: React.FC<Props> = ({
                 />
               </div>
               <h1 className="text-3xl text-center mb-10 font-extrabold sm:text-4xl sm:leading-relaxed sm:text-left whitespace-normal text-left">
-                Download UnblockVPN
+                Download CicadaVPN
               </h1>
               <p className="mb-10 leading-normal font-bold text-xl sm:text-xl">
                 Unblock direct from your device.

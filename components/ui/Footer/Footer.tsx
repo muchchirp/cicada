@@ -214,7 +214,7 @@ export default function Footer() {
                 href="/about"
                 className=" transition duration-150 ease-in-out hover:text-zinc-200"
               >
-                About UnblockVPN
+                About CicadaVPN
               </Link>
               </p>
             </li>
@@ -263,7 +263,7 @@ export default function Footer() {
                 href="/about/review"
                 className=" transition duration-150 ease-in-out hover:text-zinc-200"
               >
-                UnblockVPN Reviews
+                CicadaVPN Reviews
               </Link>
             </li>
             <li className="py-3 md:py-0 md:pb-4">
@@ -337,7 +337,7 @@ export default function Footer() {
             
 
               <Link 
-                href="https://web3.unblockvpn.io" 
+                href="https://web3.cicadavpn.com" 
                 className=" transition duration-150 ease-in-out hover:text-zinc-200"
               >
                 Web3 Founder Program 🚀
@@ -470,7 +470,7 @@ export default function Footer() {
                 href="/support"
                 className=" transition duration-150 ease-in-out hover:text-zinc-200"
               >
-                UnblockVPN Support
+                CicadaVPN Support
               </Link>
               </p>
             </li>
@@ -544,7 +544,7 @@ export default function Footer() {
       <div className="flex flex-col items-center justify-between py-12 space-y-4 md:flex-row ">
         <div>
           <span>
-            &copy; {new Date().getFullYear()} UnblockVPN. All rights reserved.
+            &copy; {new Date().getFullYear()} CicadaVPN. All rights reserved.
           </span>
         </div>
         <div className="flex items-center">

@@ -24,10 +24,10 @@ const Legal = () => {
         <p className="mb-4">Last updated: July 1, 2023</p>
         <p><strong>INTRODUCTION</strong></p>
         <p className="mb-4">
-          This document (“Privacy Policy”) explains the privacy rules applicable to personal data and other information collected or submitted when you access, install, or use UnblockVPN Services and Websites regardless of the device (computer, mobile phone, tablet, etc.) you use.
+          This document (“Privacy Policy”) explains the privacy rules applicable to personal data and other information collected or submitted when you access, install, or use CicadaVPN Services and Websites regardless of the device (computer, mobile phone, tablet, etc.) you use.
         </p>
         <p className="mb-4">
-          The data controller of your personal data, as described in this Privacy Policy, is UnblockVPN Limited (address: 188 Quay Street, Auckland, New Zealand; email: privacy@unblockvpn.io) (“UnblockVPN”, “we”, “us”, or “our”).
+          The data controller of your personal data, as described in this Privacy Policy, is CicadaVPN Limited (address: 188 Quay Street, Auckland, New Zealand; email: privacy@cicadavpn.com) (“CicadaVPN”, “we”, “us”, or “our”).
         </p>
         <p className="mb-4">
           The capitalized words used in this Privacy Policy as definitions are defined here or in our General Terms.
@@ -37,21 +37,21 @@ const Legal = () => {
         </p>
         <h2 className="text-xl font-bold mb-4">Product-specific Privacy Notices</h2>
         <p className="mb-4">
-          As UnblockVPN products cater to different user needs, they may process different personal data points during their performance. The following links provide further information on:
+          As CicadaVPN products cater to different user needs, they may process different personal data points during their performance. The following links provide further information on:
         </p>
         <ul className="list-disc list-inside mb-4">
-          <li>UnblockVPN Privacy Notice (additional terms)</li>
+          <li>CicadaVPN Privacy Notice (additional terms)</li>
         </ul>
         <p className="mb-4">
           Additional information on your personal data may also be indicated in contractual terms, supplemental privacy statements, or notices.
         </p>
         <h2 className="text-xl font-bold mb-4">PROCESSING OF YOUR PERSONAL DATA</h2>
         <p className="mb-4">
-          UnblockVPN processes personal data to a limited scope to provide Services, process payments for the Services, and enable the functioning of our Websites and mobile applications. We may process the following categories of personal data:
+          CicadaVPN processes personal data to a limited scope to provide Services, process payments for the Services, and enable the functioning of our Websites and mobile applications. We may process the following categories of personal data:
         </p>
         <h3 className="text-lg font-bold mb-2">Information for creating your Account</h3>
         <ul className="list-disc list-inside mb-4">
-          <li>Email address. We ask for your email address as part of your registration. It is necessary for the creation of your UnblockVPN Account, retrieving a lost password, and using the Services.</li>
+          <li>Email address. We ask for your email address as part of your registration. It is necessary for the creation of your CicadaVPN Account, retrieving a lost password, and using the Services.</li>
         </ul>
         <h3 className="text-lg font-bold mb-2">Subscription information</h3>
         <ul className="list-disc list-inside mb-4">
@@ -73,13 +73,13 @@ const Legal = () => {
         </ul>
         <h3 className="text-lg font-bold mb-2">Information collected on our applications and Websites</h3>
         <ul className="list-disc list-inside mb-4">
-          <li>Service usage. We collect information about specific UnblockVPN Services and features you use.</li>
+          <li>Service usage. We collect information about specific CicadaVPN Services and features you use.</li>
           <li>Access logs. As most websites on the internet, our Websites collect access logs (such as IP address, browser type, operating system) to operate our Services and ensure their secure, reliable, and robust performance. This information is also essential for fighting against DDoS attacks, scanning, and similar hacking attempts.</li>
           <li>Cookies. Cookies, pixels, and other similar technologies are usually small text or image files that are placed on your device when you visit our Websites. Some cookies are essential for our Websites to operate smoothly; others are used to improve Websites’ functionality, analyze aggregated usage statistics to improve Websites’ performance, and for advertising. We also use affiliate cookies to identify the customers referred to our Websites by our partners so that we can grant the referrers their commission. You can check what cookies we use at our Cookie policy.</li>
         </ul>
         <h3 className="text-lg font-bold mb-2">Referrals data</h3>
         <ul className="list-disc list-inside mb-4">
-          <li>Information for participating in referral programs. Participation in referral programs maintained by UnblockVPN requires referrers to submit personal data (e.g., full name, e-mail address, phone number, relationship with the referred party) about themselves and a referred party so that UnblockVPN could i) reach out to the referred party; ii) contact referrers with regards to their participation in referral programs and/or provision of rewards. It is the referrer's responsibility to abide by applicable privacy laws when disclosing third parties’ personal data to UnblockVPN, including informing third parties that they are providing referred parties’ personal data to UnblockVPN and how it will be used and processed. Referred parties may unsubscribe from any future communication at any time. If you believe that one of your contacts has provided us with your personal data and you would like it to be removed from our database, please contact us.</li>
+          <li>Information for participating in referral programs. Participation in referral programs maintained by CicadaVPN requires referrers to submit personal data (e.g., full name, e-mail address, phone number, relationship with the referred party) about themselves and a referred party so that CicadaVPN could i) reach out to the referred party; ii) contact referrers with regards to their participation in referral programs and/or provision of rewards. It is the referrer's responsibility to abide by applicable privacy laws when disclosing third parties’ personal data to CicadaVPN, including informing third parties that they are providing referred parties’ personal data to CicadaVPN and how it will be used and processed. Referred parties may unsubscribe from any future communication at any time. If you believe that one of your contacts has provided us with your personal data and you would like it to be removed from our database, please contact us.</li>
         </ul>
         <h3 className="text-lg font-bold mb-2">Promotional games data</h3>
         <ul className="list-disc list-inside mb-4">
@@ -150,13 +150,13 @@ const Legal = () => {
           Address: 188 Quay Street, Auckland, New Zealand
         </p>
         <p className="mb-4">
-          Email: privacy@unblockvpn.io
+          Email: privacy@cicadavpn.com
         </p>
         <p className="mb-4">
           We will respond to your inquiries and requests in accordance with applicable privacy laws.
         </p>
         <p className="mb-4">
-          Please note that this Privacy Policy applies to UnblockVPN Services and Websites only. If you access or use third-party websites, products, or services linked to or integrated with UnblockVPN Services, their privacy policies and practices will govern your use of those websites, products, or services. We encourage you to review the privacy policies of such third-party websites, products, or services before providing any personal data.
+          Please note that this Privacy Policy applies to CicadaVPN Services and Websites only. If you access or use third-party websites, products, or services linked to or integrated with CicadaVPN Services, their privacy policies and practices will govern your use of those websites, products, or services. We encourage you to review the privacy policies of such third-party websites, products, or services before providing any personal data.
         </p>
           </div>
         </div>

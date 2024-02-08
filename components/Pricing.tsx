@@ -174,7 +174,7 @@ export default function Pricing({
             
             <a
               className="text-pink-500 underline"
-              href="https://unblockvpn.io/about/trust"
+              href="https://cicadavpn.com/about/trust"
               rel="noopener noreferrer"
               target="_blank"
             >

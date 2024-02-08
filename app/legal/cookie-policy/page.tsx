@@ -46,7 +46,7 @@ const Legal = () => {
         <p>You can control cookies through your browser settings. You can choose to accept all cookies, reject all cookies, or choose to accept or reject cookies on a case-by-case basis.</p>
         <p>To learn more about how to control cookies, please visit <a href="https://www.aboutcookies.org/">aboutcookies.org</a>.</p>
         <h2>How to contact us</h2>
-        <p>If you have any questions about our cookie policy, please contact us at legal@unblockvpn.io</p>
+        <p>If you have any questions about our cookie policy, please contact us at legal@cicadavpn.com</p>
         <h2>Changes to our cookie policy</h2>
         <p>We may update our cookie policy from time to time. The latest version of the cookie policy will always be available on this page.</p>
         <h2>This cookie policy was last updated on July 24, 2023.</h2>

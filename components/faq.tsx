@@ -46,7 +46,7 @@ const faqdata = [
   {
     question: "Facebook login help? ",
     answer:
-      "Try logging back into facebook, then login to UnblockVPN",
+      "Try logging back into facebook, then login to CicadaVPN",
   },
   {
     question: "Payment methods ",

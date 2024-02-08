@@ -42,7 +42,7 @@ export default async function Navbar() {
                 href="/order"
                 className="px-4 py-2 border mr-4 border-2 font-medium text-center bg-black dark:bg-white dark:text-black rounded-full sm:text-white transition duration-500 ease-in-out transform hover:scale-110"
               >
-                Get UnblockVPN
+                Get CicadaVPN
               </Link>
 
               <Link href="/support" className={s.link}>

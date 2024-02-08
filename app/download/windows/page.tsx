@@ -67,7 +67,7 @@ export default async function About() {
             Building Trust
           </h1>
           <p className="max-w-2xl m-auto mt-5 mb-2 text-xl text-zinc-200 sm:text-center sm:text-2xl">
-            As a privacy-focused company, UnblockVPN is trusted by our users to
+            As a privacy-focused company, CicadaVPN is trusted by our users to
             provide industry-leading protection through a combination of
             advanced technology and skilled professionals. Here's how we earn
             that trust.
@@ -78,7 +78,7 @@ export default async function About() {
 
       <div className="mb-2 m-auto max-w-2xl sm:flex sm:flex-col text-left">
             <h2 className="max-w-2xl mt-5 text-left text-2xl font-semibold leading-6 sm:text-left text-zinc-200 underline mb-2">
-              Security at UnblockVPN: Our 4 Key Strategies
+              Security at CicadaVPN: Our 4 Key Strategies
             </h2>
             <p className="max-w-2xl m-auto mt-5 mb-2 text-xl text-zinc-200 sm:text-left sm:text-2xl">
             Discover how we prioritize cybersecurity to ensure the protection of
@@ -160,7 +160,7 @@ export default async function About() {
             As we strive to exceed industry security standards, we continuously
             innovate to enhance the protection of our products and users'
             privacy. Here, we highlight two groundbreaking technologies
-            developed by UnblockVPN.
+            developed by CicadaVPN.
           </p>
 
           <h3 className="max-w-2xl mt-5 text-xl text-zinc-200 sm:text-left sm:text-2xl text-left">
@@ -180,7 +180,7 @@ export default async function About() {
             workings through our&nbsp;
             <a
               className="text-pink-500 underline"
-              href="https://unblockvpn.io/learn/blog"
+              href="https://cicadavpn.com/learn/blog"
               rel="noopener noreferrer"
               target="_blank"
             >
@@ -188,7 +188,7 @@ export default async function About() {
             </a>
            
             
-            , where UnblockVPN software developers
+            , where CicadaVPN software developers
             share their expertise.
           </p>
 
@@ -201,7 +201,7 @@ export default async function About() {
             to hard drives, all information is wiped upon each power cycle,
             preventing both data persistence and potential intruders. TrustBox
             enhances consistency and reduces vulnerabilities, as every
-            UnblockVPN server runs the most up-to-date software simultaneously.
+            CicadaVPN server runs the most up-to-date software simultaneously.
             PwC has independently audited the TrustBox technology, reaffirming
             its reliability.
           </p>
