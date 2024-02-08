@@ -1,0 +1,225 @@
+/*Navbar.module.css*/
+.dark {
+  @apply sticky top-0 mb-1 mt-2 pb-0 bg-white dark:bg-black z-40 ;
+  transition: background-color 0s ease;
+}
+
+.dark .root {
+  @apply pb-0 bg-black;
+}
+
+.link {
+  @apply inline-flex text-black dark:text-white items-center leading-6 font-medium transition ease-in-out duration-75 cursor-pointer rounded-md p-1;
+
+  @apply sm:text-sm sm:p-2;
+}
+
+.link:hover {
+  @apply text-zinc-500;
+}
+
+.link:focus {
+  @apply outline-none text-zinc-500 ring-2  ring-opacity-50;
+}
+
+.logo {
+  @apply cursor-pointer ring-opacity-0 focus:ring-opacity-0 focus:outline-none ring-0 rounded-none transform duration-100 ease-in-out;
+}
+
+@media (max-width: 1024px) {
+  .root {
+    @apply justify-between;
+
+  }
+}
+
+/* New classes for Hero component */
+.heroContainer {
+  @apply mx-auto text-left sm:text-center max-w-screen-sm sm:max-w-[2560px] bg-blue-600 py-4 sm:py-12 sm:px-8;
+}
+
+.heroTitle {
+  @apply text-left text-4xl mb-10 font-extrabold sm:text-lg sm:leading-relaxed;
+}
+
+.heroSubtitle {
+  @apply text-left mb-10 leading-normal text-xl sm:text-lg sm:leading-relaxed;
+}
+
+.heroButton {
+  @apply px-8 py-2 font-medium text-center dark:bg-white bg-black rounded-full sm:text-white dark:text-black;
+}
+
+.heroDisclaimer {
+  @apply mt-4 items-start text-sm font-medium space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row;
+}
+
+.pricingContainer {
+  @apply mx-auto max-w-screen-sm sm:max-w-[2560px] bg-gray-200 text-black flex flex-col items-center py-4 sm:py-24 sm:px-8;
+
+  /* Adjust width on mobile */
+  @media (max-width: 640px) {
+    width: 80%;
+  }
+}
+
+/* Adjust individual pricing box width */
+.pricingBox {
+  /* Adjust width on mobile */
+  @media (max-width: 640px) {
+    width: 100%;
+  }
+}
+
+/* New classes for Hero component */
+.downloadContainer {
+  @apply mx-auto sm:text-center max-w-screen-sm sm:max-w-[2560px] bg-green-400 py-4 sm:py-12 sm:px-8;
+}
+
+.downloadTitle {
+  @apply text-left text-4xl mb-10 font-extrabold sm:text-lg sm:leading-relaxed;
+}
+
+.downloadSubtitle {
+  @apply text-left mb-10 leading-normal text-xl sm:text-lg sm:leading-relaxed;
+}
+
+.downloadButton {
+  @apply px-8 py-2 font-medium text-center dark:bg-white bg-black rounded-full sm:text-white dark:text-black;
+}
+
+.downloadDisclaimer {
+  @apply mt-4 items-start text-sm font-medium space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row;
+}
+
+/* New classes for Support component */
+.supportContainer {
+  @apply mx-auto sm:text-center max-w-screen-sm sm:max-w-[2560px]  bg-yellow-400 py-4 sm:py-12 sm:px-8;
+}
+
+.supportLink {
+  @apply inline-flex text-white dark:text-white items-center leading-6 font-medium transition ease-in-out duration-75 cursor-pointer rounded-md p-1 ;
+}
+
+.supportTitle {
+  @apply text-left text-4xl mb-10 font-extrabold sm:text-lg sm:leading-relaxed;
+}
+
+.supportSubtitle {
+  @apply text-left mb-10 leading-normal text-xl sm:text-lg sm:leading-relaxed;
+}
+
+.supportButton {
+  @apply px-8 py-2 font-medium text-center dark:bg-white bg-black rounded-full sm:text-white dark:text-black;
+}
+
+.supportDisclaimer {
+  @apply mt-4 items-start text-sm font-medium space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row;
+}
+
+/* ...existing styles... */
+
+.navbarRoot {
+  position: sticky;
+  top: 0;
+  background-color: white;
+  transition: background-color 0.3s ease;
+  padding-bottom: 0;
+  z-index: 40;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 4rem;
+  width: 100%; /* Full width */
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.navbarLogo {
+  display: flex;
+  align-items: center;
+  margin-left: 0; /* Align logo to the left */
+}
+
+.navbarLogoText {
+  display: none;
+
+  /* Adjust font size for smaller screens */
+  @apply sm:text-xl;
+}
+
+@media (min-width: 768px) {
+  .navbarRoot {
+    margin-left: 0;
+  }
+}
+  @media (min-width: 640px) {
+    .navbarRoot {
+      margin-left: 0;
+    }
+  .navbarLogo {
+    margin-left: 0;
+  }
+
+  .navbarLogoText {
+    display: block;
+    margin-left: 0.5rem;
+    color: black;
+    font-size: 2rem;
+    font-weight: 800;
+  }
+
+/* New classes for Hero component */
+
+.footer{
+  @apply mx-auto max-w-[2560px] px-6 bg-white  text-black dark:text-white dark:bg-black;
+}
+
+.footerContainer {
+  @apply mx-auto text-left sm:text-center max-w-screen-sm sm:max-w-[2560px] bg-blue-600 py-4 sm:py-12 sm:px-8;
+}
+
+.footerTitle {
+  @apply text-left text-4xl mb-10 font-extrabold sm:text-lg sm:leading-relaxed;
+}
+
+.footerSubtitle {
+  @apply text-left mb-10 leading-normal text-xl sm:text-lg sm:leading-relaxed;
+}
+
+.footerButton {
+  @apply px-8 py-2 font-medium text-center dark:bg-white bg-black rounded-full sm:text-white dark:text-black;
+}
+
+.footerDisclaimer {
+  @apply mt-4 items-start text-sm font-medium space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row;
+}
+
+
+/* New classes for Hero component */
+.founderContainer {
+  @apply mx-auto sm:text-center max-w-screen-sm sm:max-w-[2560px] bg-black py-4 sm:py-12 sm:px-8;
+}
+
+.founderTitle {
+  @apply text-left text-4xl mb-10 font-extrabold sm:text-lg sm:leading-relaxed;
+}
+
+.founderSubtitle {
+  @apply text-left mb-10 leading-normal text-xl sm:text-lg sm:leading-relaxed;
+}
+
+.founderButton {
+  @apply px-8 py-2 font-medium text-center dark:bg-white bg-black rounded-full sm:text-white dark:text-black;
+}
+
+.founderDisclaimer {
+  @apply mt-4 items-start text-sm font-medium space-y-3 sm:space-x-4 sm:space-y-0 sm:items-center sm:flex-row;
+}
+
+
+
+
+}
